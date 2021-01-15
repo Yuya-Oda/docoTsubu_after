@@ -56,7 +56,7 @@ public class Main extends HttpServlet {
 
 		if (loginUser == null) {
 			//リダイレクト
-			response.sendRedirect("/docoTsubu/");
+			response.sendRedirect("/docoTsubu_after/");
 
 		} else {
 

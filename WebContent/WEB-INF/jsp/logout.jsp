@@ -9,6 +9,6 @@
 <body>
 <h1>どことぶログアウト</h1>
 <p>ログアウトしました</p>
-<a href="/docoTsubu/">トップへ</a>
+<a href="/docoTsubu_after/">トップへ</a>
 </body>
 </html>
